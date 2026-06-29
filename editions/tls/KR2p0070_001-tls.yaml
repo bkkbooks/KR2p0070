@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR2p0070/tls/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 范戊曰君王有白玉三回而不戔殘命爲君王戔殘之敢告於視日王乃出而見之王曰范乘吾焉有白玉三回而不戔殘哉范乘曰楚邦之中有食田五畛竽管衡於前君王有楚不聽鼓鐘之聲此其一回違也珪玉之君百畛之主宮妾以十百數君王有楚侯子三人一人杜門而不出此其二回也州徒之樂而天下莫不禦先王之所以爲目觀也君王隆恭其祭而不爲其樂六此其三回也先王爲此人謂之安邦謂之利民今君王盡去耳目之欲人以君王為所疏以敖民有不能也鬼無不能也民詛而使應之君王雖唯不長年可也
+  hash: sha256:a48bbfb88cef76cb1e195f996bf7efeea064f5df93e9bdc3a3657d7c81638a57
+metadata:
+  title: 楚竹書
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0070.xml
+hash: sha256:752339396835cb7dcc86a180b024175f1bddbd8a302057c1a53f99e218c01579

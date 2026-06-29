@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR2p0070/v1
+canonical_location: https://kanripo.org/bkk/KR2p0070/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 楚竹書
+  identifiers:
+    krp: KR2p0070
+  tags:
+    kr-categories: KR2p
+    tls-internal: tr-en
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0070.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0070_001.yaml, hash: 'sha256:47ff57561d52990990fc62d11bec213f304cad9f737dfd70f8f42e948c0573b6'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0070_001.markers.yaml, hash: 'sha256:10ec5944949edcaf194207403119ce58487d1c7123c38337cd5fb13aa66078bc'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 207
+  label: ''
+  type: section
+  level: 1
+hash: sha256:b65c7c98d315efab21449b543a1c0312bae270c0b67c58a65dc5adc30e4e33bb
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: tls
