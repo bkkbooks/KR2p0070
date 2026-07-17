@@ -78,6 +78,7 @@ markers:
   - {type: punctuation, offset: 117, content: ), id: KR2p0070_tls_001-bkkpn37}
   - {type: punctuation, offset: 117, content: 【, id: KR2p0070_tls_001-bkkpn38}
   - {type: punctuation, offset: 117, content: 】, id: KR2p0070_tls_001-bkkpn39}
+  - {type: voice, offset: 117, length: 0, name: note, id: n1}
   - {type: punctuation, offset: 119, content: ',', id: KR2p0070_tls_001-bkkpn40}
   - {type: 'tls:seg', offset: 119, content: '', id: KR2p0070_tls_001-4a.2}
   - {type: punctuation, offset: 125, content: ',', id: KR2p0070_tls_001-bkkpn41}
@@ -125,4 +126,4 @@ markers:
   - {type: 'tls:seg', offset: 205, content: '', id: KR2p0070_tls_001-5a.10}
   - {type: xml-element, offset: 207, content: '', id: KR2p0070_tls_001-bkkxmlele10, name: p, role: close, attrs: {source: 'SHANGBO.JUNRENZHE 7.41.5 (STRIPS 6-8) MACHENGYUAN 7: 203-205 TR. MARCO CABOARA'}}
   back: []
-hash: sha256:828536d30f08adf42189ae181e6b5b0867917e63978919c78355cf7ea4fc540e
+hash: sha256:571088b01caa37e8d1415f44cdbd2b92c357794672cceaf34416750071a70d41
